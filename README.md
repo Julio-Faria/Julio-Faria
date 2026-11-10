@@ -2,7 +2,7 @@
 🙋‍♂️ Eu sou o Julio Faria
 💻 apaixonado por tecnologia
 🖥 Trabalho como analista de Suporte
-🔐 Atualmente estudando CiberSegurança
+🔐 Formado em CiberSegurança, Pós-Graduado em Infraestrtura de Ti
 <div align="center">
   <a href="https://github.com/Julio-Faria/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Faria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
