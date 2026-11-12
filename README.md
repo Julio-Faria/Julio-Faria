@@ -1,7 +1,7 @@
 ### Hi there 👋
 🙋‍♂️ Eu sou o Julio Faria
 💻 apaixonado por tecnologia
-🖥 Trabalho como analista de Suporte
+🖥 Trabalho como Analista de Infraestrutura
 🔐 Formado em CiberSegurança, Pós-Graduado em Infraestrtura de Ti
 <div align="center">
   <a href="https://github.com/Julio-Faria/">
