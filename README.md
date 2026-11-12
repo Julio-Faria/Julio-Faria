@@ -1,4 +1,3 @@
-```html
 <h2>Olá 👋</h2>
 
 <p>
@@ -47,4 +46,3 @@
 <br>
 
 ![Snake animation](https://github.com/Julio-Faria/Julio-Faria/blob/output/github-contribution-grid-snake.svg)
-```
