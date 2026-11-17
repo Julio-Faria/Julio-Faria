@@ -4,7 +4,7 @@
   🙋‍♂️ Eu sou o Julio Faria<br>
   💻 Apaixonado por tecnologia<br>
   🖥 Trabalho como Analista de Infraestrutura<br>
-  🔐 Formado em CiberSegurança e Pós-Graduado em Infraestrutura de TI
+  🔐 Formado em Ciber Segurança e Pós-Graduado em Infraestrutura de TI
 </p>
 
 <h3>🚀 Tecnologias que conheço:</h3>
